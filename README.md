@@ -4,22 +4,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Youssef+Abdelwahab!+😎;" />
 </h1>
 
-<h3 align="center">A Software Engineer | Frontend Developer | Frontend ReactNative | Desktop application developer</h3>
+<h3 align="center">A Software Engineer | Frontend Developer | Desktop application developer</h3>
 <br/>
 <div>
-  <br>
-  🔭 I’m currently working on **A Portfolio**
-  <br>
-  🌱 I’m currently learning **OOP JS, OOP C++, & Python**
-  <br>
-  💬 Ask me about **Java, UI Principles, Frontend... or anything from zeyad4wonly@gmail.com**
-  <br>
-  ⚡ Fun fact **A Cloud weights around million of tonnes!**
-  <br>
+    <ul>
+        <li>🌱   I’m currently learning MERN-Stack</li>
+        <li>👨‍💻   I’m a CS student</li>
+        <li>👀   I’m interested in Web Development</li>
+        <li>💬   Ask me about #Javascript #ReactJS #Java</li>
+    </ul>
 </div>
 <br/>
 <div align="center"> 
-  <a href="mailto:yuo2020ssef@gmail.com?subject=Hello&body=Hi,%20can%20we%20chat?">
+  <a href="mailto:yuo2020ssef@gmail.com?">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/youssef-abdelwahab-120553221/" target="_blank">
