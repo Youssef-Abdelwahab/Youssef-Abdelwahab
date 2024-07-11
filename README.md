@@ -26,7 +26,7 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 <a href="https://leetcode.com/u/8jbkvNlFff/" target="_blank">
-     <img src="https://img.shields.io/badge/LeetCode-b97610?style=for-the-badge&logo=LeetCode&logoColor=black&color=FFA116" target="_blank" />
+     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank" />
   </a>
 </div>
 
