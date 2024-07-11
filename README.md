@@ -19,7 +19,7 @@
 </div>
 <br/>
 <div align="center"> 
-  <a href="yuo2020ssef@gmail.com">
+  <a href="mailto:yuo2020ssef@gmail.com?">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/youssef-abdelwahab-120553221/" target="_blank">
