@@ -5,9 +5,7 @@
 </h1>
 
 <h3 align="center">A Software Engineer | Frontend Developer | Frontend ReactNative | Desktop application developer</h3>
-
 <br/>
-
 <div>
   <br>
   🔭 I’m currently working on **A Portfolio**
@@ -19,7 +17,7 @@
   ⚡ Fun fact **A Cloud weights around million of tonnes!**
   <br>
 </div>
- 
+<br/>
 <div align="center"> 
   <a href="https://mail.google.com/mail/u/1/?pli=1#inbox">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
