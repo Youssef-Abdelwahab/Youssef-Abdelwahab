@@ -1,7 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ZeyadAy-man" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Youssef-Abdelwahab" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zeyad+Ayman!+😎;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Youssef+Abdelwahab!+😎;" />
 </h1>
 
 <h3 align="center">A Software Engineer | Frontend Developer | Frontend ReactNative | Desktop application developer</h3>
@@ -10,18 +10,13 @@
 
 <div>
   <br>
-  <br>
   🔭 I’m currently working on **A Portfolio**
-  <br>
   <br>
   🌱 I’m currently learning **OOP JS, OOP C++, & Python**
   <br>
-  <br>
   💬 Ask me about **Java, UI Principles, Frontend... or anything from zeyad4wonly@gmail.com**
   <br>
-  <br>
   ⚡ Fun fact **A Cloud weights around million of tonnes!**
-  <br>
   <br>
 </div>
  
@@ -42,7 +37,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,c,java,javascript,python,react,html,css" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,html,css,bootstrap,javascript,react" />
     <br>
     <img src="https://skillicons.dev/icons?i=git,github,figma,mongodb,mysql,vscode,stackoverflow,eclipse,visualstudio,gmail" /><br>
 </div>
