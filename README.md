@@ -69,7 +69,7 @@ I have successfully implemented my knowledge in various projects ⚡️.
 <h2>⚡ Stats ⚡</h2>
 <br>
 
-
+<div align="center">
   <br>
   <br>
   <a align="left" width="100%" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Youssef-Abdelwahab&theme=transparent&fire=AA4203&ring=00FFFF&border=00FFFF&sideNums=00FFFF&" alt="GitHub Streak" /></a>
@@ -78,6 +78,7 @@ I have successfully implemented my knowledge in various projects ⚡️.
 <img align="center" width=47.5% height=250 src="https://github-readme-stats.vercel.app/api?username=Youssef-Abdelwahab&count_private=true&show_icons=true&theme=react&border=00FFFF&rank_icon=github&border_radius=10" alt="readme stats" />
 
 <img align="center" width=47.5% height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Abdelwahab&hide=HTML&langs_count=8&layout=compact&theme=react&border=00FFFF&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 </div>
 
 
