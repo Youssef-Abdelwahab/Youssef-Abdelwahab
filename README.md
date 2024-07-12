@@ -86,6 +86,11 @@ I have successfully implemented my knowledge in various projects ⚡️.
 <br>
 <br>
 
+<figure><embed src="https://wakatime.com/share/@Youssef_Abdelwahab/8c8deda2-0607-4cc7-b321-1c4b6e801a77.svg"></embed></figure>
+
+<br>
+<br>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=100% height=2>
 
 <br/>
