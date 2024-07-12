@@ -42,11 +42,11 @@ and I have successfully implemented my knowledge in various projects ⚡️.
   </a>
 </div>
 
- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=1500 height=3>
+ <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=1500 height=2>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
+<div>
     <img src="https://skillicons.dev/icons?i=cpp,java,html,css,bootstrap,javascript,react" />
     <br>
     <img src="https://skillicons.dev/icons?i=git,github,figma,mongodb,mysql,vscode,visualstudio,gmail,notion,linkedin" /><br>
@@ -54,7 +54,7 @@ and I have successfully implemented my knowledge in various projects ⚡️.
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=1500 height=3>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=1500 height=2>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -64,7 +64,7 @@ and I have successfully implemented my knowledge in various projects ⚡️.
   <br/><br/><br/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=1500 height=3>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=1500 height=2>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -82,7 +82,7 @@ and I have successfully implemented my knowledge in various projects ⚡️.
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=1500 height=3>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=1500 height=2>
 
 <br/>
 
