@@ -78,11 +78,10 @@ and I have successfully implemented my knowledge in various projects ⚡️.
   <img width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Abdelwahab&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   <br>
   <br>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <br/><br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=100% height=2>
 
