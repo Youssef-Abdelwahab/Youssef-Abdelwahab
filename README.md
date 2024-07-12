@@ -86,7 +86,7 @@ and I have successfully implemented my knowledge in various projects ⚡️.
 <br>
 <br>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Youssef-Abdelwahab)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 <br>
