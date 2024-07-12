@@ -16,6 +16,7 @@ My skill set includes HTML, CSS, Bootstrap, JavaScript, and React ✨,
 <br/>
 and I have successfully implemented my knowledge in various projects ⚡️.
 <br/>
+<br/>
 <div>   
     <ul>
         <li>🎓 Computer Science student at the faculty of science.</li>
