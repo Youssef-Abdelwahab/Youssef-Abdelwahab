@@ -9,13 +9,13 @@
 <h2><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width=30 height=30> About me :</h2>
 I am Youssef Abdelwahab 👋,
 <br/>
-a dedicated Computer Science student at Cairo University 👨‍🎓,
+A dedicated Computer Science student at Cairo University 👨‍🎓,
 <br/>
-with a strong passion for front-end web development 💻.
+With a strong passion for front-end web development 💻.
 <br/>
 My skill set includes HTML, CSS, Bootstrap, JavaScript, and React ✨,
 <br/>
-and I have successfully implemented my knowledge in various projects ⚡️.
+I have successfully implemented my knowledge in various projects ⚡️.
 <br/>
 <br/>
 <div>   
