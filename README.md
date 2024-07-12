@@ -7,9 +7,14 @@
 <h3 align="center">A Software Engineer | Frontend Developer | Desktop application developer</h3>
 <br/>
 <div>
-<p>I am Youssef Abdelwahab 👋, a dedicated Computer Science student at Cairo University 👨‍🎓, with a strong passion for front-end web development 💻.
-    My skill set includes HTML, CSS, Bootstrap, JavaScript, and React ✨, and I have successfully implemented my knowledge in various projects ⚡️.</p>
-
+    <p>
+        I am Youssef Abdelwahab 👋, 
+        a dedicated Computer Science student at Cairo University 👨‍🎓, 
+        with a strong passion for front-end web development 💻.
+        My skill set includes HTML, CSS, Bootstrap, JavaScript, and React ✨, 
+        and I have successfully implemented my knowledge in various projects ⚡️.
+    </p>
+    
     <ul>
         <li>🎓 Computer Science student at the faculty of science.</li>
         <li>🌱 Currently learning MERN-Stack.</li>
