@@ -6,6 +6,7 @@
 
 <h3 align="center">A Software Engineer | Frontend Developer | Desktop application developer</h3>
 <br/>
+<h2><a href="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"> About me:</h2>
 I am Youssef Abdelwahab 👋,
 <br/>
 a dedicated Computer Science student at Cairo University 👨‍🎓,
