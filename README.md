@@ -69,7 +69,7 @@ I have successfully implemented my knowledge in various projects ⚡️.
 <h2>⚡ Stats ⚡</h2>
 <br>
 
-<a width=45% align=left href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Youssef-Abdelwahab&theme=tokyonight" alt="GitHub Streak" /></a>
+<img width=45% align=left src="https://streak-stats.demolab.com?user=Youssef-Abdelwahab&theme=tokyonight" alt="GitHub Streak" />
 <br>
 <br>
   
