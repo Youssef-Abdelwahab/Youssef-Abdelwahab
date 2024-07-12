@@ -86,7 +86,7 @@ I have successfully implemented my knowledge in various projects ⚡️.
 <br>
 <br>
 
-<figure><img src="https://wakatime.com/share/@Youssef_Abdelwahab/8c8deda2-0607-4cc7-b321-1c4b6e801a77.svg"></figure>
+<figure><img src="https://wakatime.com/share/@Youssef_Abdelwahab/d4a5a937-c8e3-4813-a78c-0ba2793ebfc8.svg"></figure>
 
 <br>
 <br>
