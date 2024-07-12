@@ -46,7 +46,7 @@ and I have successfully implemented my knowledge in various projects ⚡️.
  
 <h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div>
+<div align="center">
     <img src="https://skillicons.dev/icons?i=cpp,java,html,css,bootstrap,javascript,react" />
     <br>
     <img src="https://skillicons.dev/icons?i=git,github,figma,mongodb,mysql,vscode,visualstudio,gmail,notion,linkedin" /><br>
@@ -56,7 +56,7 @@ and I have successfully implemented my knowledge in various projects ⚡️.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=1500 height=2>
 
-<div align="center">
+<div>
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Youssef-Abdelwahab/Youssef-Abdelwahab/output/github-contribution-grid-snake.svg" />
@@ -66,7 +66,7 @@ and I have successfully implemented my knowledge in various projects ⚡️.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=1500 height=2>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2>⚡ Stats ⚡</h2>
 <br>
 <div align=center>
   <a width=450 href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Youssef-Abdelwahab&theme=transparent" alt="GitHub Streak" /></a>
@@ -86,7 +86,7 @@ and I have successfully implemented my knowledge in various projects ⚡️.
 
 <br/>
 
-<h2 align="center">🔥 Recent Used Language 🔥</h2>
+<h2>🔥 Recent Used Language 🔥</h2>
 <br>
 <div align="center">
     <img width=450 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Youssef_Abdelwahab"></img>
