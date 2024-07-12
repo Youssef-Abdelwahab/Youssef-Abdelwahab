@@ -42,7 +42,7 @@ and I have successfully implemented my knowledge in various projects ⚡️.
   </a>
 </div>
 
- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width=1000 height=5>
+ <img align="center" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width=800 height=10>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
