@@ -78,6 +78,9 @@ and I have successfully implemented my knowledge in various projects ⚡️.
   <img width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Abdelwahab&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   <br>
   <br>
+</div>
+
+<div  align="center">
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
