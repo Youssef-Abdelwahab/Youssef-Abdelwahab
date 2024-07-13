@@ -57,8 +57,9 @@ I have successfully implemented my knowledge in various projects ⚡️.<br/>
 <br/>
 
 <!-- =========================== -->
-
+<!--
 <h2>🐍 My Contributions 🐍</h2>
+-->
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Youssef-Abdelwahab/Youssef-Abdelwahab/output/github-contribution-grid-snake.svg" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=100% height=2>
