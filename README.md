@@ -20,8 +20,9 @@ I have successfully implemented my knowledge in various projects ⚡️.<br/>
 <li>🌱 Currently learning MERN-Stack.</li>
 <li>✨ Interested in Web Development.</li>
 <li>💬 Ask me about JavaScript, ReactJS, and Java</li>
-
 <br/>
+
+<!-- =========================== -->
 
 <h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60"> Connect with me :</h2>
 
@@ -31,35 +32,37 @@ I have successfully implemented my knowledge in various projects ⚡️.<br/>
     <a href="https://github.com/Youssef-Abdelwahab" target="_blank"><img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white" target="_blank" /></a>
     <a href="https://leetcode.com/u/8jbkvNlFff/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank" /></a>
     <a href="https://www.facebook.com/"><img src="https://img.shields.io/badge/facebook-1b74e4.svg?style=for-the-badge&logo=facebook&logoColor=ffffff"/></a>
-<!--     <a href="https://www.youtube.com/c/Youssef_Abdelwahab"><img src="https://img.shields.io/badge/youtube-e00101.svg?style=for-the-badge&logo=youtube&logoColor=ffffff"/></a>
+<!--
+    <a href="https://www.youtube.com/c/Youssef_Abdelwahab"><img src="https://img.shields.io/badge/youtube-e00101.svg?style=for-the-badge&logo=youtube&logoColor=ffffff"/></a>
     <a href="https://www.tiktok.com/@Youssef_Abdelwahab"><img src="https://img.shields.io/badge/tiktok-000.svg?style=for-the-badge&logo=tiktok&logoColor=ffffff"/></a>
-    <a href="https://api.whatsapp.com/send?phone=201011111111" target="_blank"><img src="https://img.shields.io/badge/whatsapp-9EF19D.svg?style=for-the-badge&logo=whatsapp&logoColor=#ffff"/></a> -->
+    <a href="https://api.whatsapp.com/send?phone=201011111111" target="_blank"><img src="https://img.shields.io/badge/whatsapp-9EF19D.svg?style=for-the-badge&logo=whatsapp&logoColor=#ffff"/></a>
+-->
 </div>
 <br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=100% height=2>
  
-<h2><img src='https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif' width="25"> Languages and Tools :</h2>
+ <!-- =========================== -->
+ 
+<h2><img src='https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif' width="30"> Languages and Tools :</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cpp,java,html,css,bootstrap,javascript,react" />
     <br>
     <img src="https://skillicons.dev/icons?i=git,github,figma,mongodb,mysql,vscode,visualstudio,gmail,notion,linkedin" /><br>
 </div>
+<br/>
 
+<!-- =========================== -->
+
+<h2>🐍 My Contributions 🐍</h2>
+<br>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Youssef-Abdelwahab/Youssef-Abdelwahab/output/github-contribution-grid-snake.svg" />
 <br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=100% height=2>
 
-<div>
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Youssef-Abdelwahab/Youssef-Abdelwahab/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=100% height=2>
+<!-- =========================== -->
 
 <h2>⚡ Stats ⚡</h2>
 <br>
