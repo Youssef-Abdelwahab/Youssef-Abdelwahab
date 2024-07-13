@@ -69,30 +69,14 @@ I have successfully implemented my knowledge in various projects ⚡️.
 <h2>⚡ Stats ⚡</h2>
 <br>
 
-<img width=50% src="https://streak-stats.demolab.com?user=Youssef-Abdelwahab&theme=tokyonight" alt="GitHub Streak" />
-<br>
-<img width=50% src="https://github-readme-stats.vercel.app/api?username=Youssef-     Abdelwahab&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-
-<br>
-<br>
-
-<img width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Abdelwahab&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-<br>
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Abdelwahab&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-<br>
-
-<figure><img src="https://wakatime.com/share/@Youssef_Abdelwahab/19f791e7-df0b-44b9-8983-9f7e339d4c6d.svg"></figure>
-
-<br>
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=100% height=2>
-
-<br/>
+<div align="center">
+    <a href="https://github.com/MustafaAhmed313">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Youssef-Abdelwahab&theme=tokyonight" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Youssef-Abdelwahab&theme=tokyonight" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Youssef-Abdelwahab&theme=tokyonight" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Youssef-Abdelwahab&theme=tokyonight" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Youssef-Abdelwahab&theme=tokyonight" height="180em" />
+</div>
 
 <h2>🔥 Recent Used Language 🔥</h2>
 <br>
