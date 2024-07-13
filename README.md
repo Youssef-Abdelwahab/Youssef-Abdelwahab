@@ -47,9 +47,12 @@ I have successfully implemented my knowledge in various projects ⚡️.<br/>
 <h2><img src='https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif' width="30"> Languages and Tools :</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,java,html,css,bootstrap,javascript,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,java,cpp" />
     <br>
-    <img src="https://skillicons.dev/icons?i=git,github,figma,mongodb,mysql,vscode,visualstudio,gmail,notion,linkedin" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,clion,mongodb,mysql,visualstudio" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=notion,gmail,linkedin,discord" />
+    <br>
 </div>
 <br/>
 
