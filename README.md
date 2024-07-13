@@ -31,7 +31,9 @@ I have successfully implemented my knowledge in various projects ⚡️.<br/>
     <a href="https://github.com/Youssef-Abdelwahab" target="_blank"><img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white" target="_blank" /></a>
     <a href="https://leetcode.com/u/8jbkvNlFff/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank" /></a>
     <a href="https://www.facebook.com/"><img src="https://img.shields.io/badge/facebook-1b74e4.svg?style=for-the-badge&logo=facebook&logoColor=ffffff"/></a>
-  <a href="https://api.whatsapp.com/send?phone=201111111111" target="_blank"><img src="https://img.shields.io/badge/whatsapp-9EF19D.svg?style=for-the-badge&logo=whatsapp&logoColor=#ffff"/></a>
+    <a href="https://www.youtube.com/c/Youssef_Abdelwahab"><img src="https://img.shields.io/badge/youtube-e00101.svg?style=for-the-badge&logo=youtube&logoColor=ffffff"/></a>
+    <a href="https://www.tiktok.com/@Youssef_Abdelwahab"><img src="https://img.shields.io/badge/tiktok-000.svg?style=for-the-badge&logo=tiktok&logoColor=ffffff"/></a>
+    <a href="https://api.whatsapp.com/send?phone=201011111111" target="_blank"><img src="https://img.shields.io/badge/whatsapp-9EF19D.svg?style=for-the-badge&logo=whatsapp&logoColor=#ffff"/></a>
 </div>
 <br/><br/>
  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=100% height=2>
