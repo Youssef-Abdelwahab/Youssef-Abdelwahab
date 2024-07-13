@@ -7,7 +7,7 @@
 <h3 align="center">A Software Engineer | Frontend Developer | Desktop application developer</h3><br/>
 
 <h2>
-    <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width=25> About me :
+    <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width=25>&nbsp; About me :
 </h2>
 
 Hi, I'm Youssef Abdelwahab 👋,<br/>
@@ -24,7 +24,7 @@ I have successfully implemented my knowledge in various projects ⚡️.<br/>
 
 <!-- =========================== -->
 
-<h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60"> Connect with me :</h2>
+<h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60">&nbsp; Connect with me :</h2>
 
 <div align="center"> 
     <a href="mailto:yuo2020ssef@gmail.com?"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -44,7 +44,7 @@ I have successfully implemented my knowledge in various projects ⚡️.<br/>
  
  <!-- =========================== -->
  
-<h2><img src='https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif' width="30"> Languages and Tools :</h2>
+<h2><img src='https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif' width="30">&nbsp; Languages and Tools :</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,java,cpp" />
@@ -58,7 +58,7 @@ I have successfully implemented my knowledge in various projects ⚡️.<br/>
 
 <!-- =========================== -->
 
-<h2><img src='https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif' width="30"> My Contributions :</h2>
+<h2><img src='https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif' width="30">&nbsp; My Contributions :</h2>
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Youssef-Abdelwahab/Youssef-Abdelwahab/output/github-contribution-grid-snake.svg" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=100% height=2>
