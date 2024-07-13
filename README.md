@@ -51,7 +51,7 @@ I have successfully implemented my knowledge in various projects ⚡️.<br/>
     <br>
     <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,clion,mongodb,mysql,visualstudio" />
     <br>
-    <img src="https://skillicons.dev/icons?i=notion,gmail,linkedin,discord" />
+    <img src="https://skillicons.dev/icons?i=notion,obsidian,gmail,linkedin,discord,twitter" />
     <br>
 </div>
 <br/>
