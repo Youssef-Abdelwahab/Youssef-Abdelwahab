@@ -49,7 +49,7 @@ I have successfully implemented my knowledge in various projects ⚡️.<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,java,cpp" />
     <br>
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,visualstudio,figma,mongodb,mysql,clion" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,visualstudio,mongodb,mysql,clion" />
     <br>
     <img src="https://skillicons.dev/icons?i=notion,obsidian,gmail,linkedin,discord,twitter" />
     <br>
