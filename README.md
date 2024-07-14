@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Youssef-Abdelwahab" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&theme=tokyonight&lines=Hi+There!+👋;+I'm+Youssef+Abdelwahab!+😎;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&text_color=tokyonight&lines=Hi+There!+👋;+I'm+Youssef+Abdelwahab!+😎;" />
 </h1>
 
 <h3 align="center">A Software Engineer | Frontend Developer | Desktop application developer</h3><br/>
