@@ -25,11 +25,13 @@ I have successfully implemented my knowledge in various projects ⚡️.<br/>
 <br/>
 
 <!-- =========================== -->
+
 <!--
 <br/>
 <h2 width=200><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60">Connect with me :</h2>
 -->
-<div > 
+
+<div align="bottom"> 
     <a href="mailto:yuo2020ssef@gmail.com?"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/youssef-abdelwahab-120553221/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
     <a href="https://github.com/Youssef-Abdelwahab" target="_blank"><img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white" target="_blank" /></a>
