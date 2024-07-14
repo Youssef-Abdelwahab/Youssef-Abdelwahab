@@ -25,7 +25,7 @@ I have successfully implemented my knowledge in various projects ⚡️.<br/>
 <br/>
 </div>
 <!-- =========================== -->
-<br/><br/><br/>
+<br/><br/><br/><br/><br/>
 <h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60">Connect with me :</h2>
 
 <div align="center"> 
