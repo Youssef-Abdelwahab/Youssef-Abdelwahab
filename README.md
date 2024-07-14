@@ -85,7 +85,7 @@ I have successfully implemented my knowledge in various projects ⚡️.<br/>
 <h2>🔥 Recent Used Language 🔥</h2>
 <br>
 <div align="center">
-    <img width=450 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Youssef_Abdelwahab"></img>
+    <img width=450 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Youssef_Abdelwahab&bg_color=000000"></img>
 </div>
 <br>
 
