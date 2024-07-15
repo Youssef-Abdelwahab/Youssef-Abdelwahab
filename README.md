@@ -82,7 +82,10 @@ I have successfully implemented my knowledge in various projects ⚡️.<br/>
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Youssef-Abdelwahab&theme=tokyonight" height="180em" />
 </div>
 
-<h2>🔥 Recent Used Language 🔥</h2>
+<!-- =========================== -->
+
+<h2><img src="https://private-user-images.githubusercontent.com/74038190/241763895-fa83eeb9-f4e2-4d85-93f0-688af11babf8.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjEwNDUwNTgsIm5iZiI6MTcyMTA0NDc1OCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTUtZmE4M2VlYjktZjRlMi00ZDg1LTkzZjAtNjg4YWYxMWJhYmY4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzE1VDExNTkxOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQyMWRjNzQ1YjNhMTdlNjYwZGVkY2JmOWI3ZDAzNzBlZDg2MGNhYmU3OTBlNmE1MjliMmVkYzNmMDUxMjEzYjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.gFVCGnH4dQZcmTOZJIQj7QrUNFNWrSNWJWRMHjXp-wo" width=25>&nbsp; Recent Used Language :</h2>
+
 <br>
 <div align="center">
     <img width=450 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Youssef_Abdelwahab&theme=tokyonight"></img>
