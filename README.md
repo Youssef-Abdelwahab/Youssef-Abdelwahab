@@ -88,7 +88,7 @@ I have successfully implemented my knowledge in various projects ⚡️.<br/>
 
 <br>
 <div align="center">
-    <img width=450 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Youssef_Abdelwahab&theme=tokyonight"></img>
+    <img width=450 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Youssef_Abdelwahab&theme=omni"></img>
 </div>
 <br>
 
