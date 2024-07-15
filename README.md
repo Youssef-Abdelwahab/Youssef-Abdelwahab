@@ -84,7 +84,7 @@ I have successfully implemented my knowledge in various projects ⚡️.<br/>
 
 <!-- =========================== -->
 
-<h2><img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width=35>&nbsp; Recent Used Language :</h2>
+<h2><img src="https://media.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width=35>&nbsp; Recent Used Language :</h2>
 
 <br>
 <div align="center">
