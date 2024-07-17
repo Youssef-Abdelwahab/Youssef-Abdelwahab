@@ -83,7 +83,7 @@ I have successfully implemented my knowledge in various projects ⚡️.<br/>
 </div>
 
 <!-- =========================== -->
-
+<!--
 <h2><img src="https://media.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width=35>&nbsp; Recent Used Language :</h2>
 
 <br>
@@ -91,4 +91,4 @@ I have successfully implemented my knowledge in various projects ⚡️.<br/>
     <img width=450 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Youssef_Abdelwahab&theme=nightowl"></img>
 </div>
 <br>
-
+-->
